@@ -21,7 +21,7 @@
 
 * To deploy the solidity smart contract [ [joint_savings.sol](./joint_savings.sol) ] , hit the deploy button after successfully compiling the contract using Remix IDE.
 
-![alt=“”](./Execution_Results/Deploying_Compiled_Solidity_Contract.png)
+![alt=“”](./Deploying_Compiled_Solidity_Contract.png)
 
 ---
 
@@ -29,7 +29,7 @@
 
 * Here the deposit function was initially used to deposit 16 Ether for testing. The addresses of Account 1 & 2 were also appointed using the setAccounts function.
 
-![alt=“”](./Execution_Results/Depositing_Ether_and_Defining_Ethereum_Addresses.png)
+![alt=“”](./Depositing_Ether_and_Defining_Ethereum_Addresses.png)
 
 ---
 
@@ -42,7 +42,7 @@
   * lastWithrawAmount
 * Outputs can be seen by clicking on each of the options. The smart contract balance decreased from 16 Ether to 15 Ether.
 
-![alt=“”](./Execution_Results/Transaction_1.png)
+![alt=“”](./Transaction_1.png)
 
 ---
 
@@ -55,7 +55,7 @@
   * lastWithrawAmount
 * Outputs can be seen by clicking on each of the options. The smart contract balance decreased from 15 Ether to 5 Ether.
 
-![alt=“”](./Execution_Results/Transaction_2.png)
+![alt=“”](./Transaction_2.png)
 
 ---
 
@@ -68,10 +68,9 @@
   * lastWithrawAmount
 * Outputs can be seen by clicking on each of the options. The smart contract balance decreased from 5 Ether to 0 Ether.
 
-![alt=“”](./Execution_Results/Transaction_3.png)
+![alt=“”](./Transaction_3.png)
 
 
-## Conclusion 
-
+## Conclusion
 
 ---
