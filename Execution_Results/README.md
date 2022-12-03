@@ -7,8 +7,6 @@
 
 <!-- TOC ignore:true -->
 ## Contents
-- [Soldity Smart Contract Execution Results](#soldity-smart-contract-execution-results)
-  - [Contents](#contents)
   - [Deploying Compiled Solidity Smart Contract](#deploying-compiled-solidity-smart-contract)
   - [Depositing 16 Ether for Testing Contract Functions](#depositing-16-ether-for-testing-contract-functions)
   - [Transaction 1 -- Withdraw 1 Ether as Wei](#transaction-1----withdraw-1-ether-as-wei)
