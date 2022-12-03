@@ -1,4 +1,4 @@
-# Unit 20 - "Joint Savings Account"
+# Joint Savings Account
 
 ![alt=“”](Images/20-5-challenge-image.png)
 
@@ -96,14 +96,6 @@ To interact with your deployed smart contract, complete the following steps:
     > **Note** Remembering how to convert ether to wei and vice versa can be challenging. So, you can use a website like [Ethereum Unit Converter](https://eth-converter.com/) to ease doing the conversion.
 
 3. Once you’ve successfully deposited funds into your contract, test the contract’s withdrawal functionality by withdrawing 5 ether into `accountOne` and 10 ether into `accountTwo`. After each transaction, use the `contractBalance` function to verify that the funds were withdrawn from your contract. Also, use the `lastToWithdraw` and `lastWithdrawAmount` functions to verify that the address and amount were correct.
-
----
-
-### Submission
-
-* Upload the files for this assignment to your GitHub repository.
-
-* Submit the link to your GitHub repo on Bootcamp Spot.
 
 ---
 
