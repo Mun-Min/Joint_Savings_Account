@@ -7,12 +7,12 @@
 
 <!-- TOC ignore:true -->
 ## Contents
-  - [Deploying Compiled Solidity Smart Contract](#deploying-compiled-solidity-smart-contract)
-  - [Depositing 16 Ether for Testing Contract Functions](#depositing-16-ether-for-testing-contract-functions)
-  - [Transaction 1 -- Withdraw 1 Ether as Wei](#transaction-1----withdraw-1-ether-as-wei)
-  - [Transaction 2 -- Withdraw 10 Ether as Wei](#transaction-2----withdraw-10-ether-as-wei)
-  - [Transaction 3 -- Withdraw 5 Ether as Wei](#transaction-3----withdraw-5-ether-as-wei)
-  - [Conclusion](#conclusion)
+  1. [Deploying Compiled Solidity Smart Contract](#deploying-compiled-solidity-smart-contract)
+  2. [Depositing Ether for Testing Contract Functions](#depositing-16-ether-for-testing-contract-functions)
+  3. [Transaction 1 -- Withdraw 1 Ether as Wei](#transaction-1----withdraw-1-ether-as-wei)
+  4. [Transaction 2 -- Withdraw 10 Ether as Wei](#transaction-2----withdraw-10-ether-as-wei)
+  5. [Transaction 3 -- Withdraw 5 Ether as Wei](#transaction-3----withdraw-5-ether-as-wei)
+  6. [Conclusion](#conclusion)
 
 
 ## Deploying Compiled Solidity Smart Contract
