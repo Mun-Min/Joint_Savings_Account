@@ -67,6 +67,8 @@
 
 ![alt=“”](./Transaction_3.png)
 
+---
+
 ## Conclusion
 
 The [joint_savings.sol](./joint_savings.sol) file holds a Solidity Smart Contract that mimics the action of a joint savings account such as the ability to deposit/withdraw funds from the account. The contract also allows the user to view the current balance of the smart contract as well as the withdrawl addresses and amount withdrawn (in Wei), after each transaction.
