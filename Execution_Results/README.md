@@ -58,7 +58,7 @@
 
 ## Transaction 3 -- Withdraw 5 Ether as Wei
 
-* Here the withdraw function was used to withdraw 5000000000000000000 Wei, which is equivalent to 10 Ether, to Account 2.
+* Here the withdraw function was used to withdraw 5000000000000000000 Wei, which is equivalent to 5 Ether, to Account 2.
 * The withdraw function has three outputs:
   * contractBalance
   * lastToWithdraw
