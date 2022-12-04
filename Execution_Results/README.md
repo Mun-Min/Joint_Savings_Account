@@ -6,12 +6,14 @@
 
 
 ## Table of Contents
-  1. [Deploying Compiled Solidity Smart Contract](#deploying-compiled-solidity-smart-contract)
-  2. [Depositing Ether for Testing Contract Functions](#depositing-16-ether-for-testing-contract-functions)
-  3. [Transaction 1 -- Withdraw 1 Ether as Wei](#transaction-1----withdraw-1-ether-as-wei)
-  4. [Transaction 2 -- Withdraw 10 Ether as Wei](#transaction-2----withdraw-10-ether-as-wei)
-  5. [Transaction 3 -- Withdraw 5 Ether as Wei](#transaction-3----withdraw-5-ether-as-wei)
-  6. [Conclusion](#conclusion)
+- [Soldity Smart Contract Execution Results](#soldity-smart-contract-execution-results)
+  - [Table of Contents](#table-of-contents)
+  - [Deploying Compiled Solidity Smart Contract](#deploying-compiled-solidity-smart-contract)
+  - [Depositing 16 Ether for Testing Contract Functions](#depositing-16-ether-for-testing-contract-functions)
+  - [Transaction 1 -- Withdraw 1 Ether as Wei](#transaction-1----withdraw-1-ether-as-wei)
+  - [Transaction 2 -- Withdraw 10 Ether as Wei](#transaction-2----withdraw-10-ether-as-wei)
+  - [Transaction 3 -- Withdraw 5 Ether as Wei](#transaction-3----withdraw-5-ether-as-wei)
+  - [Conclusion](#conclusion)
 
 
 ## Deploying Compiled Solidity Smart Contract
@@ -67,7 +69,15 @@
 
 ![alt=“”](./Transaction_3.png)
 
-
 ## Conclusion
+
+The [joint_savings.sol](./joint_savings.sol) file holds a Solidity Smart Contract that mimics the action of a joint savings account such as the ability to deposit/withdraw funds from the account. The contract also allows the user to view the current balance of the smart contract as well as the withdrawl addresses and amount withdrawn (in Wei), after each transaction.
+
+    Compiling & Deploying to JavaScript VM using Remix IDE: 
+
+      - Import the joint_savings.sol file into the Remix IDE 
+      - Compile the contract 
+      - After successful compilation, deploy the contract using VM environment on Remix 
+      - Once deployed, deposit test Ether using the deposit function and begin testing contract functionality!
 
 ---
